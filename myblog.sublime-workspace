@@ -1,0 +1,392 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"P",
+				"PostModelAdmin"
+			],
+			[
+				"go",
+				"gonderiler"
+			],
+			[
+				"r",
+				"render_to_response"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"g",
+				"get_object_or_404"
+			],
+			[
+				"Ka",
+				"KategoriAdmin"
+			],
+			[
+				"db",
+				"db_index"
+			],
+			[
+				"d",
+				"db_index"
+			],
+			[
+				"m",
+				"max_length"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"k",
+				"kullanici"
+			],
+			[
+				"ku",
+				"kullanici"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "blog/static/css/blog.css",
+			"settings":
+			{
+				"buffer_size": 870,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/templates/blog/base.html",
+			"settings":
+			{
+				"buffer_size": 1031,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/apps.py",
+			"settings":
+			{
+				"buffer_size": 83,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/blog",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/blog/__pycache__",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/blog/static",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/blog/static/css",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/blog/templates",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/blog/templates/blog",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/myblog"
+	],
+	"file_history":
+	[
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/blog/models.py",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/blog/admin.py",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/myblog/urls.py",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/blog/urls.py",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/blog/views.py",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/blog/templates/blog/post_edit.html",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/blog/templates/blog/post_detail.html",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/blog/forms.py",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/blog/templates/blog/post_list.html",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myblog/myblog/settings.py",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myBlog/src/gokhanblog/settings.py",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myBlog/src/blog/views.py",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myBlog/src/goster_kategori.html",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myBlog/src/goster_gonderi.html",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myBlog/src/blog/models.py",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myBlog/src/index.html",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myBlog/src/base.html",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myBlog/src/gokhanblog/urls.py",
+		"/home/gokhan/Belgeler/python-web-projects/django-projects/myBlog/src/blog/admin.py",
+		"/home/gokhan/Belgeler/python-web-projects/flask-projects/firstFlask-project/microblog/config.py",
+		"/home/gokhan/Belgeler/python-web-projects/flask-projects/firstFlask-project/okubeni.mnd",
+		"/home/gokhan/Belgeler/python-web-projects/flask-projects/firstFlask-project/microblog/app/views.py",
+		"/home/gokhan/Belgeler/python-web-projects/flask-projects/firstFlask-project/microblog/app/templates/login.html",
+		"/home/gokhan/Belgeler/python-web-projects/flask-projects/firstFlask-project/microblog/app/forms.py",
+		"/home/gokhan/Belgeler/python-web-projects/flask-projects/firstFlask-project/microblog/app/__init__.py",
+		"/home/gokhan/Belgeler/python-web-projects/flask-projects/firstFlask-project/microblog/app/templates/base.html",
+		"/home/gokhan/Belgeler/python-web-projects/flask-projects/firstFlask-project/miniblog/app/views.py",
+		"/home/gokhan/Belgeler/python-web-projects/flask-projects/firstFlask-project/miniblog/app/templates/index.html",
+		"/home/gokhan/Belgeler/python-web-projects/flask-projects/firstFlask-project/microblog/app/templates/index.html",
+		"/home/gokhan/Belgeler/python-web-projects/flask-projects/firstFlask-project/miniblog/app/templates/base.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"djangorocks"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"gokhancagar"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "blog/static/css/blog.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog/templates/blog/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "blog/apps.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "myblog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

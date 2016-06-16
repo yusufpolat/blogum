@@ -1,0 +1,14 @@
+{% extends 'blog/base.html' %}
+
+{% block content %}
+    <div class="post">
+        {% if post.yayinlama_tarihi %}
+            <div class="date">
+                {{ post.yayinlama_tarihi }}
+            </div>
+        {% endif %}
+        <a class="btn btn-default" href="{% url 'gonderi_duzenle' pk=post.pk %}"><span class="glyphicon glyphicon-pencil"></span></a>
+        <h1>{{ post.baslik }}</h1>
+        <p>{{ post.yazi|linebreaks }}</p>
+    </div>
+{% endblock %}
